@@ -18,4 +18,4 @@
 [대상 수상작 발표자료](/presentation.ppt.pptx)
 
 발표 동영상
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FtK_N-r05q4" title="𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2022년을 돌아보며 인기팝송 총모음ㅣBest Popular Songs Of 2022˚₊‧" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/FtK_N-r05q4" title="𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 2022년을 돌아보며 인기팝송 총모음ㅣBest Popular Songs Of 2022˚₊‧" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
